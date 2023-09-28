@@ -1,0 +1,5 @@
+selenium==3.141.0
+beautifulsoup4==4.9.3
+requests==2.26.0
+tkinter==8.6
+webdriver-manager==3.4.2
